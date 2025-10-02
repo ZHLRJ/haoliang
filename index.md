@@ -1,10 +1,10 @@
-<img width="1496" height="1546" alt="image" src="https://github.com/user-attachments/assets/f688153d-320d-4f18-ae1d-fbbfe4cf0f44" />---
+---
 layout: homepage
 ---
 
 ## About Me
 
-I’m a researcher in geometry 
+I am a Ph.D. student at ...
 
 ## Research Interests
 
