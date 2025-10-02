@@ -19,3 +19,9 @@ main:
     conference: Journal of Energy Storage.
     pdf: ./assets/files/battery.pdf
     image: ./assets/img/battery.png
+
+  - title: State-of-Charge Estimation of the Lithium-Ion Battery Using Neural Network Based on an Improved Thevenin Circuit Model
+    authors: Haoliang Zhang, Woonki Na, Jonghoon Kim
+    conference: IEEE Transportation Electrification Conference and Expo (ITEC),2018 
+    pdf: ./assets/files/master.pdf
+    image: ./assets/img/master.png
