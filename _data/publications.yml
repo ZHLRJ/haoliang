@@ -12,7 +12,7 @@ main:
     conference_short: "IJCNN"
     conference: "International Joint Conference on Neural Networks (IJCNN), 2025"
     pdf: "/assets/files/yolo.pdf"
-    image: "/assets/img/icann2025.png"
+    image: "/assets/img/yolo.png"
     
   - title: Efficient pooling operator for 3D morphable models
     authors: Haoliang Zhang, Samuel Cheng, Christian El Amm, Jonghoon Kim
