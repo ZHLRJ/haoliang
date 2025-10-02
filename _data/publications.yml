@@ -2,27 +2,28 @@ main:
   - title: Neural QSLIM for Mesh Autoencoders
     authors: Haoliang Zhang, Xintong Li, Jonghoon Kim, Samuel Cheng, Christian El Amm
     conference_short: ICANN
-    conference: Artificial Neural Networks and Machine Learning <strong>(ICANN)</strong>, 2025.
+    conference: Artificial Neural Networks and Machine Learning <strong>(ICANN)</strong>, 2025
     pdf: ./assets/files/icann.pdf
     image: ./assets/img/icann2025.png
 
   - title: Efficient pooling operator for 3D morphable models
     authors: Haoliang Zhang, Samuel Cheng, Christian El Amm, Jonghoon Kim
     conference_short: TVCG
-    conference: IEEE Transactions on Visualization and Computer Graphics.
+    conference: IEEE Transactions on Visualization and Computer Graphics
     pdf: ./assets/files/tvcg.pdf
     image: ./assets/img/tvcg.png
     
 
   - title: Implementation of generative adversarial network-CLS combined with bidirectional long short-term memory for lithium-ion battery state prediction
     authors: Haoliang Zhang, Wei Tang, Woonki Na, Pyeong-Yeon Lee, Jonghoon Kim
-    conference: Journal of Energy Storage.
+    conference_short: J. Energy Storage 
+    conference: Journal of Energy Storage
     pdf: ./assets/files/battery.pdf
     image: ./assets/img/battery.png
 
   - title: State-of-Charge Estimation of the Lithium-Ion Battery Using Neural Network Based on an Improved Thevenin Circuit Model
     conference_short: ITEC
     authors: Haoliang Zhang, Woonki Na, Jonghoon Kim
-    conference: IEEE Transportation Electrification Conference and Expo (ITEC),2018 
+    conference: IEEE Transportation Electrification Conference and Expo (ITEC),2018
     pdf: ./assets/files/master.pdf
     image: ./assets/img/master.png
