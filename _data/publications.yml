@@ -27,7 +27,7 @@ main:
     authors: <strong>Haoliang Zhang</strong>, Wei Tang, Woonki Na, Pyeong-Yeon Lee, Jonghoon Kim
     conference_short: J. Energy Storage 
     conference: Journal of Energy Storage
-    bibtex: ./assets/bib/batery.txt
+    bibtex: ./assets/bib/battery.txt
     pdf: ./assets/files/battery.pdf
     image: ./assets/img/battery.png
 
