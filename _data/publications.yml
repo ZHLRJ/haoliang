@@ -4,18 +4,15 @@ main:
     conference_short: ICANN
     conference: Artificial Neural Networks and Machine Learning <strong>(ICANN)</strong>, 2025.
     pdf: https://www.researchgate.net/profile/Haoliang-Zhang-4/publication/395451227_Neural_QSLIM_for_Mesh_Autoencoders/links/68c8643aa14ac57c39a83bb8/Neural-QSLIM-for-Mesh-Autoencoders.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/icann2025.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  - title: Efficient pooling operator for 3D morphable models
+    authors: Haoliang Zhang, Samuel Cheng, Christian El Amm, Jonghoon Kim
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
