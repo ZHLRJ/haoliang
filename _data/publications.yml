@@ -8,7 +8,7 @@ main:
     image: ./assets/img/icann2025.png
     
   - title: "MS-YOLO: Infrared Object Detection for Edge Deployment via MobileNetV4 and SlideLoss"
-    authors: Jiali Zhang, Thomas S. White, Haoliang Zhang, Wenqing Hu, Donald C. Wunsch II, Jian Liu
+    authors: "Jiali Zhang, Thomas S. White, Haoliang Zhang, Wenqing Hu, Donald C. Wunsch II, Jian Liu"
     conference_short: "IJCNN"
     conference: "International Joint Conference on Neural Networks (IJCNN), 2025"
     pdf: "/assets/files/yolo.pdf"
