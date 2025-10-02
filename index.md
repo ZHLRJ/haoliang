@@ -6,7 +6,7 @@ layout: homepage
 
 I’m a researcher in geometry processing, computer graphics/vision, and 3D machine learning. My work seeks new algorithms and new representations to make computing with geometric data easy, efficient, and reliable.
 
-I received my PhD in Electrical and Computer Engineering from The University of Oklahoma advised by Samuel Cheng. Even earlier, I was an undergraduate at California State University, Fresno, where I worked with Woonki Na, Ph.D. on research in power electronics modeling, and was also active in competitive programming.
+I received my PhD in Electrical and Computer Engineering from The University of Oklahoma advised by [**Samuel Cheng**](https://samuelcheng.us/index.html). Even earlier, I was an undergraduate at California State University, Fresno, where I worked with Woonki Na, Ph.D. on research in power electronics modeling, and was also active in competitive programming.
 
 
 ## Research Interests
