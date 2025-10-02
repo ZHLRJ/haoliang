@@ -10,8 +10,8 @@ main:
     authors: Haoliang Zhang, Samuel Cheng, Christian El Amm, Jonghoon Kim
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: ./assets/img/teaser_example_2.png
+    pdf: ./assets/files/tvcg.pdf
+    image: ./assets/img/tvcg.png
     
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
