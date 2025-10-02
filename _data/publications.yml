@@ -21,6 +21,7 @@ main:
     image: ./assets/img/battery.png
 
   - title: State-of-Charge Estimation of the Lithium-Ion Battery Using Neural Network Based on an Improved Thevenin Circuit Model
+    conference_short: ITEC
     authors: Haoliang Zhang, Woonki Na, Jonghoon Kim
     conference: IEEE Transportation Electrification Conference and Expo (ITEC),2018 
     pdf: ./assets/files/master.pdf
