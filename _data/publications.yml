@@ -1,6 +1,6 @@
 main:
   - title: Neural QSLIM for Mesh Autoencoders
-    authors: Haoliang Zhang, Xintong Li, Jonghoon Kim, Samuel Cheng, Christian El Amm
+    authors: <strong>Haoliang Zhang</strong>, Xintong Li, Jonghoon Kim, Samuel Cheng, Christian El Amm
     conference_short: ICANN
     conference: Artificial Neural Networks and Machine Learning <strong>(ICANN)</strong>, 2025
     pdf: ./assets/files/icann.pdf
@@ -8,14 +8,14 @@ main:
     image: ./assets/img/icann2025.png
     
   - title: "MS-YOLO: Infrared Object Detection for Edge Deployment via MobileNetV4 and SlideLoss"
-    authors: "Jiali Zhang, Thomas S. White, Haoliang Zhang, Wenqing Hu, Donald C. Wunsch II, Jian Liu"
+    authors: "Jiali Zhang, Thomas S. White, <strong>Haoliang Zhang</strong>, Wenqing Hu, Donald C. Wunsch II, Jian Liu"
     conference_short: "IJCNN"
     conference: International Joint Conference on Neural Networks (IJCNN), 2025
     pdf: ./assets/files/yolo.pdf
     image: ./assets/img/yolo.png
     
   - title: Efficient pooling operator for 3D morphable models
-    authors: Haoliang Zhang, Samuel Cheng, Christian El Amm, Jonghoon Kim
+    authors: <strong>Haoliang Zhang</strong>, Samuel Cheng, Christian El Amm, Jonghoon Kim
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics
     bibtex: ./assets/bib/tvcg.txt
@@ -24,7 +24,7 @@ main:
     
 
   - title: Implementation of generative adversarial network-CLS combined with bidirectional long short-term memory for lithium-ion battery state prediction
-    authors: Haoliang Zhang, Wei Tang, Woonki Na, Pyeong-Yeon Lee, Jonghoon Kim
+    authors: <strong>Haoliang Zhang</strong>, Wei Tang, Woonki Na, Pyeong-Yeon Lee, Jonghoon Kim
     conference_short: J. Energy Storage 
     conference: Journal of Energy Storage
     bibtex: ./assets/bib/batery.txt
@@ -33,7 +33,7 @@ main:
 
   - title: State-of-Charge Estimation of the Lithium-Ion Battery Using Neural Network Based on an Improved Thevenin Circuit Model
     conference_short: ITEC
-    authors: Haoliang Zhang, Woonki Na, Jonghoon Kim
+    authors: <strong>Haoliang Zhang</strong>, Woonki Na, Jonghoon Kim
     conference: IEEE Transportation Electrification Conference and Expo (ITEC),2018
     pdf: ./assets/files/master.pdf
     bibtex: ./assets/bib/itec.txt
