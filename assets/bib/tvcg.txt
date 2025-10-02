@@ -1,0 +1,10 @@
+@ARTICLE{10068322,
+  author={Zhang, Haoliang and Cheng, Samuel and Amm, Christian El and Kim, Jonghoon},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={Efficient Pooling Operator for 3D Morphable Models}, 
+  year={2024},
+  volume={30},
+  number={7},
+  pages={4225-4233},
+  keywords={Convolution;Faces;Three-dimensional displays;Shape;Task analysis;Computational modeling;Geometry;Latent representation;mesh reconstruction;morphable model},
+  doi={10.1109/TVCG.2023.3255820}}

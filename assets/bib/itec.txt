@@ -1,0 +1,8 @@
+@inproceedings{zhang2018state,
+  title={State-of-charge estimation of the lithium-ion battery using neural network based on an improved thevenin circuit model},
+  author={Zhang, Haoliang and Na, Woonki and Kim, Jonghoon},
+  booktitle={2018 IEEE Transportation Electrification Conference and Expo (ITEC)},
+  pages={342--346},
+  year={2018},
+  organization={IEEE}
+}
