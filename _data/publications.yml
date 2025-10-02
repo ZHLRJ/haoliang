@@ -3,7 +3,7 @@ main:
     authors: Haoliang Zhang, Xintong Li, Jonghoon Kim, Samuel Cheng, Christian El Amm
     conference_short: ICANN
     conference: Artificial Neural Networks and Machine Learning <strong>(ICANN)</strong>, 2025.
-    pdf: https://www.researchgate.net/profile/Haoliang-Zhang-4/publication/395451227_Neural_QSLIM_for_Mesh_Autoencoders/links/68c8643aa14ac57c39a83bb8/Neural-QSLIM-for-Mesh-Autoencoders.pdf
+    pdf: ./assets/files/icann.pdf
     image: ./assets/img/icann2025.png
 
   - title: Efficient pooling operator for 3D morphable models
