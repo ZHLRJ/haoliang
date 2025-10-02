@@ -4,12 +4,14 @@ main:
     conference_short: ICANN
     conference: Artificial Neural Networks and Machine Learning <strong>(ICANN)</strong>, 2025
     pdf: ./assets/files/icann.pdf
+    bibtex: ./assets/bib/icann.txt
     image: ./assets/img/icann2025.png
 
   - title: Efficient pooling operator for 3D morphable models
     authors: Haoliang Zhang, Samuel Cheng, Christian El Amm, Jonghoon Kim
     conference_short: TVCG
     conference: IEEE Transactions on Visualization and Computer Graphics
+    bibtex: ./assets/bib/tvcg.txt
     pdf: ./assets/files/tvcg.pdf
     image: ./assets/img/tvcg.png
     
@@ -18,6 +20,7 @@ main:
     authors: Haoliang Zhang, Wei Tang, Woonki Na, Pyeong-Yeon Lee, Jonghoon Kim
     conference_short: J. Energy Storage 
     conference: Journal of Energy Storage
+    bibtex: ./assets/bib/batery.txt
     pdf: ./assets/files/battery.pdf
     image: ./assets/img/battery.png
 
@@ -26,4 +29,5 @@ main:
     authors: Haoliang Zhang, Woonki Na, Jonghoon Kim
     conference: IEEE Transportation Electrification Conference and Expo (ITEC),2018
     pdf: ./assets/files/master.pdf
+    bibtex: ./assets/bib/itec.txt
     image: ./assets/img/master.png
