@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I’m a researcher in geometry processing, computer graphics/vision, and 3D machine learning. My work seeks new algorithms and new representations to make computing with geometric data easy, efficient, and reliable. Currently, I’m a Senior Research Scientist at NVIDIA, based out of Seattle, WA.
+
+
 
 ## Research Interests
 
