@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a researcher in geometry processing, computer graphics. 
+I’m a researcher in geometry 
 
 ## Research Interests
 
