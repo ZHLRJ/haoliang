@@ -16,12 +16,12 @@ body {
 
 /* 标题 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica, Arial, sans-serif;
+  'Lora', serif !important;
   font-weight: 600;
-  color: #043361;   /* 保留你原来的蓝色 */
+  color: #043361;   
 }
 
 /* 代码 */
 code, pre {
-  font-family: 'Inconsolata', 'Ubuntu Mono', monospace;
+  'Lora', serif !important;
 }
