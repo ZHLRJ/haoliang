@@ -6,8 +6,7 @@ layout: homepage
 
 I’m a researcher in geometry processing, computer graphics/vision, and 3D machine learning. My work seeks new algorithms and new representations to make computing with geometric data easy, efficient, and reliable.
 
-I received my PhD in Computer Science from Carnegie Mellon University advised by Keenan Crane, and was a postdoc in the University of Toronto DGP with Alec Jacobson. Even earlier, I was an undergraduate at Virginia Tech, where I worked with T.M. Murali on computational systems biology, and was active in competitive programming. Outside of work, I’m a big fan of long-distance running, hockey, and cooking.
-
+I received my PhD in Electrical and Computer Engineering from The University of Oklahoma advised by Samuel Cheng. Even earlier, I was an undergraduate at California State University, Fresno, where I worked with Woonki Na, Ph.D. on research in power electronics modeling, and was also active in competitive programming.
 
 
 ## Research Interests
