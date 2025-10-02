@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I’m a researcher in geometry processing, computer graphics/vision, and 3D machine learning. 
+I’m a researcher in geometry processing, computer graphics. 
 
 ## Research Interests
 
