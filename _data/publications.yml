@@ -1,4 +1,11 @@
 main:
+  - title: "Synergy over Discrepancy: A Partition-Based Approach to Multi-Domain LLM Fine-Tuning"
+    authors: Hua Ye, Siyuan Chen, <strong>Haoliang Zhang</strong>, Weihao Luo, Yanbin Li, Xuan Zhang
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025
+    image: ./assets/img/nips.png
+    notes: Early Accept
+    
   - title: Neural QSLIM for Mesh Autoencoders
     authors: <strong>Haoliang Zhang</strong>, Xintong Li, Jonghoon Kim, Samuel Cheng, Christian El Amm
     conference_short: ICANN
