@@ -2,7 +2,7 @@ main:
   - title: "Seeing through the Conﬂict: Transparent Knowledge Conﬂict Handling inRetrieval-Augmented Generation"
     authors: Hua Ye, Siyuan Chen, Ziqi Zhong, Canran Xiao, <strong>Haoliang Zhang</strong>, Yuhan Wu, Fei Shen
     conference_short: AAAI
-    conference: The Association for the Advancement of Artificial Intelligence <strong>(AAAI)</strong>, 2025
+    conference: The Association for the Advancement of Artificial Intelligence <strong>(AAAI Oral)</strong>, 2025
     image: ./assets/img/aaai.png
     notes: Early Accept
   - title: "Synergy over Discrepancy: A Partition-Based Approach to Multi-Domain LLM Fine-Tuning"
