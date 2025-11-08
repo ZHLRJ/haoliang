@@ -11,7 +11,7 @@ Samuel Cheng</a>. Before that, I completed my Master’s degree at California St
 
 
 ## News
-- **Nov. 2025** Our paper about Retrieval-Augmented Generation is accepted to AAAI 2025.
+- **Nov. 2025** Our paper about RAG is accepted to AAAI 2025.
 - **Sept. 2025** Our paper about LLM fine-tuning is accepted to NeurIPS 2025.
 - **Jun. 2025** Our paper about Neural Autoencoder is accepted to ICANN 2025.
 
