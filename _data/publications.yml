@@ -1,4 +1,11 @@
 main:
+  - title: "Unsupervised Landmark Discovery via Karcher Means for Non-Rigid Shape Correspondence"
+    authors: <strong>Haoliang Zhang</strong>, Samuel Cheng,  Christian El Amm
+    conference_short: TVC
+    conference: The Visual Computer <strong>(TVC)</strong>, 2026
+    image: ./assets/img/TVC.png
+    notes: Accept
+    
   - title: "Seeing through the Conﬂict: Transparent Knowledge Conﬂict Handling inRetrieval-Augmented Generation"
     authors: Hua Ye, Siyuan Chen, Ziqi Zhong, Canran Xiao, <strong>Haoliang Zhang</strong>, Yuhan Wu, Fei Shen
     conference_short: AAAI
