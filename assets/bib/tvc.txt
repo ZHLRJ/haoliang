@@ -1,0 +1,10 @@
+@article{zhang2026unsupervised,
+  title={Unsupervised landmark discovery via Karcher means for non-rigid shape correspondence},
+  author={Zhang, Haoliang and Cheng, Samuel and Amm, Christian El},
+  journal={The Visual Computer},
+  volume={42},
+  number={1},
+  pages={105},
+  year={2026},
+  publisher={Springer}
+}
