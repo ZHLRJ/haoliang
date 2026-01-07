@@ -4,7 +4,8 @@ main:
     conference_short: TVC
     conference: The Visual Computer <strong>(TVC)</strong>, 2026
     image: ./assets/img/TVC.png
-    notes: Accept
+    pdf: ./assets/files/TVC.pdf
+    bibtex: ./assets/bib/tvc.txt
     
   - title: "Seeing through the Conﬂict: Transparent Knowledge Conﬂict Handling inRetrieval-Augmented Generation"
     authors: Hua Ye, Siyuan Chen, Ziqi Zhong, Canran Xiao, <strong>Haoliang Zhang</strong>, Yuhan Wu, Fei Shen
