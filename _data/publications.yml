@@ -12,7 +12,8 @@ main:
     conference_short: AAAI
     conference: The Association for the Advancement of Artificial Intelligence <strong>(AAAI Oral)</strong>, 2025
     image: ./assets/img/aaai.png
-    notes: Early Accept
+    pdf: ./assets/files/AAAI.pdf
+    # notes: Early Accept
     
   - title: "Synergy over Discrepancy: A Partition-Based Approach to Multi-Domain LLM Fine-Tuning"
     authors: Hua Ye, Siyuan Chen, <strong>Haoliang Zhang</strong>, Weihao Luo, Yanbin Li, Xuan Zhang
