@@ -4,7 +4,7 @@ main:
     conference_short: TVC
     conference: The Visual Computer <strong>(TVC)</strong>, 2026
     image: ./assets/img/Datafree.jpg
-    pdf: ./assets/files/DataFree.pdf
+    pdf: ./assets/files/Datafree.pdf
     bibtex: ./assets/bib/Datafree.txt
     
   - title: "Unsupervised Landmark Discovery via Karcher Means for Non-Rigid Shape Correspondence"
