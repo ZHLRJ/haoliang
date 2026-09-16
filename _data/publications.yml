@@ -1,4 +1,12 @@
 main:
+  - title: "Data-free neural mesh inpainting: preserving topology and geometry"
+    authors: <strong>Haoliang Zhang</strong>,  Jiali Zhang,  Samuel Cheng,  Christian El Amm
+    conference_short: TVC
+    conference: The Visual Computer <strong>(TVC)</strong>, 2026
+    image: ./assets/img/Datafree.png
+    pdf: ./assets/files/Datafree.pdf
+    bibtex: ./assets/bib/Datafree.txt
+    
   - title: "Unsupervised Landmark Discovery via Karcher Means for Non-Rigid Shape Correspondence"
     authors: <strong>Haoliang Zhang</strong>, Samuel Cheng,  Christian El Amm
     conference_short: TVC
