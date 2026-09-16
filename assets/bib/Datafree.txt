@@ -1,0 +1,10 @@
+@article{zhang2026data,
+  title={Data-free neural mesh inpainting: preserving topology and geometry},
+  author={Zhang, Haoliang and Zhang, Jiali and Cheng, Samuel and El Amm, Christian},
+  journal={The Visual Computer},
+  volume={42},
+  number={11},
+  pages={507},
+  year={2026},
+  publisher={Springer}
+}
